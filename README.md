@@ -1,5 +1,5 @@
 <!-- Header -->
-<div align="center">
+<div align="corner">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Krishnarajan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Chennai%2C%20India&descAlignY=55&descColor=ffffff" width="100%"/>
 
@@ -7,7 +7,7 @@
 
 ---
 
-<div align="center">
+<div align="corner">
 
 ### 👋 Hey there! I'm **Krishnarajan**
 
@@ -25,7 +25,7 @@
 const krishnarajan = {
   role:       "Fullstack Developer",
   location:   "Chennai, India 🇮🇳",
-  focus:      ["React", "Node.js", "TypeScript", "PostgreSQL"],
+  focus:      ["Java", "HTML", "TypeScript", "DBMS"],
   currentlyBuilding: "AI-powered fullstack tools",
   openTo:     ["Freelance", "Full-time", "Open Source"],
   funFact:    "I debug with console.log and I'm not ashamed 😄",
@@ -86,14 +86,14 @@ const krishnarajan = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="corner">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnarajan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnarajan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<div align="center">
+<div align="corner">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=krishnarajan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -103,7 +103,7 @@ const krishnarajan = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<div align="corner">
 
 [![Krishnarajan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnarajan&theme=tokyo-night&hide_border=true)](https://github.com/krishnarajan)
 
@@ -113,7 +113,7 @@ const krishnarajan = {
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<div align="middle">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnarajan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)](https://krishnarajan.dev)
@@ -124,7 +124,7 @@ const krishnarajan = {
 
 ---
 
-<div align="center">
+<div align="middle">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krishnarajan&color=1D9E75&style=flat-square&label=Profile+Views)
 
