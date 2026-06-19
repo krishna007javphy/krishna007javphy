@@ -11,7 +11,7 @@
 
 ### 👋 Hey there! I'm **Krishnarajan**
 
-🚀 Fullstack Developer · 🌏 Chennai, India · ☕ Coffee-driven Coder
+🚀 Fullstack Developer · 🌏 Trichy, India · ☕ Coffee-driven Coder
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+fullstack+apps...;npm+run+dev+%F0%9F%9A%80;const+me+%3D+new+Developer();Making+bugs+into+features...;Pushing+to+main+%E2%9C%85)](https://git.io/typing-svg)
 
